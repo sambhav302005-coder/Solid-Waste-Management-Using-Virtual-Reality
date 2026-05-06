@@ -148,35 +148,6 @@ This platform addresses critical gaps in environmental education:
 ✅ **Accessibility** - Works across different VR platforms via OpenXR
 ✅ **Scalability** - Can be deployed in schools and public awareness campaigns
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. **Fork** the repository
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add YourFeature with description'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/YourFeature
-   ```
-5. **Open a Pull Request** with a clear description
-
-### Areas for Contribution
-- Additional waste categories and items
-- Language localization
-- Performance optimization
-- New VR interaction methods
-- Mobile VR support
-- Multiplayer classroom features
-- Analytics and progress tracking
-
-
 ## 👥 Authors
 
 - **Sambhav Jain** - Lead Developer  
